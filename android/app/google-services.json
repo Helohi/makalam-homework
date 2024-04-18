@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615152941486",
+    "project_id": "makalam-firebaseappcheck-test",
+    "storage_bucket": "makalam-firebaseappcheck-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615152941486:android:8770dde6a4c3ca1dce303f",
+        "android_client_info": {
+          "package_name": "com.makalam.homework.makalam_homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3anwgeXaCgNKmCA5Z5eXiYM4PXbdjkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
