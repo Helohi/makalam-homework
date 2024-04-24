@@ -53,11 +53,11 @@ class ArticalModel extends ArticalEntity {
       'id': id,
       'slug': slug,
       'url': url,
-      'author': author, // TODO: Author.toJson()?
+      'author': author,
       'title': title,
       'banner': banner,
       'content': content,
-      'tags': tags, // TODO: tags.toJson()?
+      'tags': tags,
       'status': status,
       'read_time': readTime,
       'view_count': viewCount,
